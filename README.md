@@ -26,7 +26,7 @@ Agora é só jogar!
 ![jogo](https://user-images.githubusercontent.com/37241913/80919686-c6726d80-8d41-11ea-95dd-c9593b7d593d.png)
 
 ## Versão
-Consulte as [tags neste repositório](https://github.com/andre-aps/Restaurante/tree/v1.0).
+Consulte as [tags neste repositório](https://github.com/andre-aps/Jogo-da-Forca/tree/v1.0).
 
 ## Autor
 <b> André Pereira da Silva </b> | [LinkedIn](https://www.linkedin.com/in/andre-aps)
