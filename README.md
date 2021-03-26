@@ -1,4 +1,7 @@
 # Projeto Jogo da Forca
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/jogo-da-forca)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/jogo-da-forca)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/jogo-da-forca)
 
 O projeto Jogo da Forca foi desenvolvido utilizando a linguagem de programação C, onde o objetivo é o jogador acertar a palavra proposta tendo como dica o número de letras.
 
